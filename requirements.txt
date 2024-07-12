@@ -2,3 +2,4 @@ streamlit~=1.34.0
 google-generativeai
 python-dotenv~=1.0.1
 pdf2image~=1.17.0
+poppler
